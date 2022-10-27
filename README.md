@@ -1,4 +1,4 @@
-[![MasterHead](./assets/images/1.png)](https://smchuma.io)
+[![MasterHead](./assets/images/banner.png)](https://smchuma.io)
 
 <h1 align="center">Hi 👋, I'm Samora Mchuma</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
