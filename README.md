@@ -1,4 +1,5 @@
-[![MasterHead](https://drive.google.com/drive/folders/1AEMQ5B4b9SRkBPfBThyA59nx6EeppfAV)](https://smchuma.io)
+[![MasterHead](./assets/images/1.png)](https://smchuma.io)
+
 <h1 align="center">Hi 👋, I'm Samora Mchuma</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 (img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif")
