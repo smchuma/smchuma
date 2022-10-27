@@ -1,6 +1,4 @@
 [![MasterHead](./assets/images/banner.png)](https://smchuma.io)
-
-<h1 align="center">A passionate software developer from Kenya</h1>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 <p align="left"> <a href="https://twitter.com/samoramchuma" target="blank"><img src="https://img.shields.io/twitter/follow/samoramchuma?logo=twitter&style=for-the-badge" alt="samoramchuma" /></a> </p>
