@@ -2,15 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Samora Mchuma</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
-<img align="left" alt="Coding" width="600" src="https://www.lambdatest.com/resources/images/news24.gif"/>
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=smchuma&label=Profile%20views&color=0e75b6&style=flat" alt="smchuma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smchuma&label=Profile%20views&color=0e75b6&style=flat" alt="smchuma" /> </p>
 
 <p align="left"> <a href="https://twitter.com/samoramchuma" target="blank"><img src="https://img.shields.io/twitter/follow/samoramchuma?logo=twitter&style=for-the-badge" alt="samoramchuma" /></a> </p>
 
 - 🔭 I’m currently working on [an employee task management web app](https://github.com/smchuma/EmployeesTasksWebApp-API)
 
 - 🌱 I’m currently learning **the MERN Stack**
+
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **laurentsamora6@gmail.com**
 
