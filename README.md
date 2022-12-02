@@ -8,6 +8,7 @@
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **laurentsamora6@gmail.com**
+- 📫 PORTFOLIO WEBSITE: **www.samoramchuma.com**
 
 - ⚡ Fun fact **i do video editing and visual effects**
 
