@@ -1,5 +1,5 @@
 [![MasterHead](./assets/images/banner2.png)](https://smchuma.io)
-<img align="right" alt="Coding" width="400" src="[[https://www.lambdatest.com/resources/images/news24.gif](https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html)](https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif)"/>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/smchuma/image/upload/v1684835409/yap_o4rwez.gif"/>
 
 <p align="left"> <a href="https://twitter.com/samoramchuma" target="blank"><img src="https://img.shields.io/twitter/follow/samoramchuma?logo=twitter&style=for-the-badge" alt="samoramchuma" /></a> </p>
 
