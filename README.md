@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/samoramchuma" target="blank"><img src="https://img.shields.io/twitter/follow/samoramchuma?logo=twitter&style=for-the-badge" alt="samoramchuma" /></a> </p>
 
-- 🌱 I’m currently learning **the MERN Stack**
+- 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **Javascript, React, Python, & SQL**
 
 - 📫 How to reach me **laurentsamora6@gmail.com**
 - 📫 PORTFOLIO WEBSITE: **www.samoramchuma.com**
