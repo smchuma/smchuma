@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
-- 💬 Ask me about **Javascript, React, Python, & SQL**
+- 💬 Ask me about **Javascript, React, Node.js, Python & SQL**
 
 - 📫 How to reach me **laurentsamora6@gmail.com**
 - 📫 PORTFOLIO WEBSITE: **www.samoramchuma.com**
