@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/samoramchuma" target="blank"><img src="https://img.shields.io/twitter/follow/samoramchuma?logo=twitter&style=for-the-badge" alt="samoramchuma" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **Javascript, React, Node.js, Python & SQL**
 
